@@ -1,10 +1,38 @@
-🗣️ Text-to-Speech Python Program
+# 🗣️ Text-to-Speech Python Program
+
 This repository contains a simple Text-to-Speech (TTS) Python program.
+
 The program takes user input as text and converts it into a computer-generated voice using the `pyttsx3` library.
 
+### 🚀 Features
+- Converts any text input into speech
+- Works offline (no internet connection needed)
+- Easy to run and modify
 
+### 🛠️ Requirements
+- Python 3.x
+- pyttsx3 library
 
+You can install pyttsx3 using pip:
+```bash
+pip install pyttsx3
+```
 
+### 📄 How to Use
+1. Clone this repository:
+```bash
+git clone https://github.com/yourusername/text-to-speech.git
+```
+
+2. git clone https://github.com/yourusername/text-to-speech.git
+```bash
+cd text-to-speech
+```
+
+3. Run the Python program:
+```bash
+python tts.py
+```
 
 ```bash
 import pyttsx3
