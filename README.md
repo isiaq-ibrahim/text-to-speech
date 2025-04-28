@@ -83,3 +83,14 @@ engine.runAndWait()
 | Practicality               | Very basic and limited use case                  | More practical, reusable, and user-friendly     |
 | Learning Progress          | Focused on syntax and basic usage of `pyttsx3`   | Advanced to adding interactivity and real-world usability  |
 ```
+
+### 📢 Watch Demo 
+(https://drive.google.com/file/d/1aXFhHInFOMIiRKgXw_T1GcqEaZWeYt-R/view?usp=sharing)
+
+### 🤝 Contributing
+
+Pull requests are welcome. Feel free to open an issue if you have ideas for improvements or new features!
+
+### 📄 License
+
+This project is open source and available under the MIT License.
