@@ -1,4 +1,6 @@
-"# text-to-speech" 
+🗣️ Text-to-Speech Python Program
+This repository contains a simple Text-to-Speech (TTS) Python program.
+The program takes user input as text and converts it into a computer-generated voice using the `pyttsx3` library.
 
 
 
