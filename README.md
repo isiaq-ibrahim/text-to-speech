@@ -21,17 +21,17 @@ pip install pyttsx3
 ### 📄 How to Use
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/text-to-speech.git
+git clone https://github.com/isiaq-ibrahim/text-to-speech.git
 ```
 
-2. git clone https://github.com/yourusername/text-to-speech.git
+2. Navigate to the project directory:
 ```bash
 cd text-to-speech
 ```
 
 3. Run the Python program:
 ```bash
-python tts.py
+python text_to_speech.py
 ```
 
 ```bash
