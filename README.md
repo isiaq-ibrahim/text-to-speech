@@ -10,7 +10,7 @@ The program takes user input as text and converts it into a computer-generated v
 - Easy to run and modify
 
 ### 🛠️ Requirements
-- Python 3.x
+- Python 3.10.7
 - pyttsx3 library
 - pywin32 library
 
